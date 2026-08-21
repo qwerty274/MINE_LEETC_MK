@@ -13,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Dynamic Programming
@@ -47,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0258-add-digits/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
