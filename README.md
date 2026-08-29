@@ -59,4 +59,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
 <!---LeetCode Topics End-->
