@@ -43,6 +43,7 @@
 | [0263-ugly-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0263-ugly-number/) | Easy |
 | [0507-perfect-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0507-perfect-number/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0258-add-digits/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0046-permutations/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
