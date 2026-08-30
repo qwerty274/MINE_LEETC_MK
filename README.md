@@ -48,6 +48,7 @@
 | [0728-self-dividing-numbers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -102,4 +103,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0202-happy-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
 <!---LeetCode Topics End-->
