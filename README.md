@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0036-valid-sudoku](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0036-valid-sudoku/) | Medium |
 | [0046-permutations](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0046-permutations/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -36,6 +37,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0036-valid-sudoku/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0036-valid-sudoku/) | Medium |
 | [0202-happy-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Floyd's Cycle Finding Algorithm
