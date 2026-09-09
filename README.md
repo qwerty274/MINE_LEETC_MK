@@ -19,6 +19,7 @@
 | [0036-valid-sudoku](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0036-valid-sudoku/) | Medium |
 | [0046-permutations](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0046-permutations/) | Medium |
 | [0064-minimum-path-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0064-minimum-path-sum/) | Medium |
+| [0118-pascals-triangle](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0118-pascals-triangle/) | Easy |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0118-pascals-triangle/) | Easy |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
 ## Breadth-First Search
