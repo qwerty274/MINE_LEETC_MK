@@ -99,6 +99,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0067-add-binary/) | Easy |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
 | [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
@@ -113,6 +114,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -136,4 +138,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
