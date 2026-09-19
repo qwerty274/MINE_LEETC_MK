@@ -53,6 +53,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0029-divide-two-integers/) | Medium |
 | [0060-permutation-sequence](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0070-climbing-stairs/) | Easy |
@@ -139,6 +140,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0067-add-binary/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
