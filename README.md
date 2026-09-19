@@ -27,6 +27,7 @@
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -61,6 +62,7 @@
 | [0263-ugly-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0263-ugly-number/) | Easy |
 | [0507-perfect-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
