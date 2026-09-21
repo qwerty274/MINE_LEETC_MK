@@ -27,6 +27,7 @@
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0867-transpose-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0867-transpose-matrix/) | Easy |
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -50,6 +51,7 @@
 | [0064-minimum-path-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0064-minimum-path-sum/) | Medium |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
+| [0867-transpose-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0867-transpose-matrix/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0258-add-digits/) | Easy |
+| [0867-transpose-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0867-transpose-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
