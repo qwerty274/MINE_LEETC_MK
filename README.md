@@ -81,6 +81,7 @@
 | [0258-add-digits](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0867-transpose-matrix/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +113,7 @@
 | [0067-add-binary](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0067-add-binary/) | Easy |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
 | [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
