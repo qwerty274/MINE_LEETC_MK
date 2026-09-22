@@ -21,6 +21,7 @@
 | [0046-permutations](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0046-permutations/) | Medium |
 | [0064-minimum-path-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0118-pascals-triangle/) | Easy |
+| [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -59,6 +60,7 @@
 | [0060-permutation-sequence](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0060-permutation-sequence/) | Hard |
 | [0067-add-binary](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0202-happy-number/) | Easy |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0258-add-digits/) | Easy |
@@ -103,6 +105,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
