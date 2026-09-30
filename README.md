@@ -68,6 +68,7 @@
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0263-ugly-number/) | Easy |
+| [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
 | [0507-perfect-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
@@ -179,4 +180,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0037-sudoku-solver/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
