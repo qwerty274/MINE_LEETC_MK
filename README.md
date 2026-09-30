@@ -76,6 +76,7 @@
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Memoization
