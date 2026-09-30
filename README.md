@@ -12,6 +12,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0060-permutation-sequence](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
+| [0326-power-of-three](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0326-power-of-three/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [0258-add-digits](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0326-power-of-three/) | Easy |
 | [0507-perfect-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0507-perfect-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
