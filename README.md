@@ -48,6 +48,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0101-symmetric-tree/) | Easy |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -209,4 +210,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
