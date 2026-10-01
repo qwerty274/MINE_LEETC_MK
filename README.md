@@ -36,6 +36,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,4 +205,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0292-nim-game/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 <!---LeetCode Topics End-->
