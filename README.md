@@ -126,6 +126,7 @@
 | [0067-add-binary](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0067-add-binary/) | Easy |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
 | [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
+| [0856-score-of-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0856-score-of-parentheses/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
+| [0856-score-of-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0856-score-of-parentheses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0020-valid-parentheses/) | Easy |
+| [0856-score-of-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0856-score-of-parentheses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
