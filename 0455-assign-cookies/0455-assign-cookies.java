@@ -4,8 +4,8 @@ class Solution {
         Arrays.sort(s);
         int i=0;
         int j=0;
-        while(i<s.length && j < g.length){
-            if(s[i]>=g[j]){
+        while(i<g.length && j < s.length){
+            if(s[j]>=g[i]){
                 i++;
                 j++;
             }
