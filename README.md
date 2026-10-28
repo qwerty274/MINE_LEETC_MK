@@ -30,6 +30,7 @@
 | [0485-max-consecutive-ones](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
+| [0739-daily-temperatures](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0867-transpose-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0867-transpose-matrix/) | Easy |
@@ -144,6 +145,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0224-basic-calculator/) | Hard |
+| [0739-daily-temperatures](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0856-score-of-parentheses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -227,4 +229,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0101-symmetric-tree/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
