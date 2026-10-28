@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
@@ -112,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@
 | [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0202-happy-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -162,6 +165,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -233,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0739-daily-temperatures/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
