@@ -38,6 +38,7 @@
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 ## Dynamic Programming
@@ -115,6 +116,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +169,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
