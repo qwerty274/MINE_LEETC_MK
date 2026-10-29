@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0027-remove-element/) | Easy |
 | [0036-valid-sudoku](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0046-permutations/) | Medium |
@@ -129,6 +130,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0027-remove-element/) | Easy |
 | [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0283-move-zeroes/) | Easy |
