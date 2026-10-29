@@ -27,6 +27,7 @@
 | [0118-pascals-triangle](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
+| [0283-move-zeroes](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
@@ -130,6 +131,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0283-move-zeroes/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0541-reverse-string-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0541-reverse-string-ii/) | Easy |
