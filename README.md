@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0189-rotate-array/) | Medium |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -51,6 +52,7 @@
 | [0070-climbing-stairs](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0118-pascals-triangle/) | Easy |
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -172,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0055-jump-game/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0860-lemonade-change/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
