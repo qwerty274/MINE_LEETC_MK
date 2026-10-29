@@ -35,6 +35,7 @@
 | [0739-daily-temperatures](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0739-daily-temperatures/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0860-lemonade-change](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0867-transpose-matrix/) | Easy |
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -172,6 +173,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0860-lemonade-change/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
 ## Bit Manipulation
