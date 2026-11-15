@@ -44,6 +44,7 @@
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
@@ -57,6 +58,7 @@
 | [0221-maximal-square](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0221-maximal-square/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@
 | [0908-smallest-range-i](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0908-smallest-range-i/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2457-minimum-addition-to-make-integer-beautiful/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -238,6 +241,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/4012-count-of-unfinished-tasks-after-each-shift/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
