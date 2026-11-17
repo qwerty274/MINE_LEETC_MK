@@ -64,6 +64,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0101-symmetric-tree/) | Easy |
 | [0542-01-matrix](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0547-number-of-provinces/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0101-symmetric-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,4 +265,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0455-assign-cookies/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/qwerty274/MINE_LEETC_MK/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
